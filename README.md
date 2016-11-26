@@ -1,4 +1,4 @@
-# Bootcamp DAISEE @ Genève (#UrbanEntrepreneurs)
+# [#UrbanEntrepreneurs] Bootcamp DAISEE @ Genève 
 
 ![UrbanEntreprneurs](https://github.com/DAISEE/LIFT-Workshop/blob/master/images/IMG_4695.JPG)
 
