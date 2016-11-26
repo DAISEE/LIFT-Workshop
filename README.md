@@ -1,8 +1,7 @@
-# LIFT-Workshop
+# Bootcamp DAISEE @ Genève
 
-![LIFT](https://github.com/DAISEE/LIFT-Workshop/blob/master/images/LIFT.png)
+![UrbanEntreprneurs](https://github.com/DAISEE/LIFT-Workshop/blob/master/images/IMG_4695.JPG
 
-Ce dépôt GitHub est le point d'entrée du Workshop du 24 November 2016, dans le cadre des conférences **LIFT - Urban entrepreneurs** :  
-http://www.urbanentrepreneurs.io/energyblockchain  
+Ce dépôt est le point d'entrée de la documentation du premier bootcamp DAISEE qui a eu lieu le 24 November 2016 dans les murs du CUI de l'Université de Genève, à l'invitation de LIFT dans le cadre du programme [Urban Entrepreneurs](http://www.urbanentrepreneurs.io/energyblockchain).
   
-Il décrit via le [Wiki](https://github.com/DAISEE/LIFT-Workshop/wiki) les différentes étapes de mise en place de la première version du prototype DAISEE.  
+Le [Wiki](https://github.com/DAISEE/LIFT-Workshop/wiki) décri( les différentes étapes de mise en place de la première version du prototype DAISEE.  
