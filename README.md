@@ -2,8 +2,9 @@
 
 ![UrbanEntreprneurs](https://github.com/DAISEE/LIFT-Workshop/blob/master/images/IMG_4695.JPG)
 
-Ce dépôt est le point d'entrée de la documentation du premier bootcamp DAISEE qui a eu lieu le 24 November 2016 dans les murs du CUI de l'Université de Genève, à l'invitation de LIFT, dans le cadre du programme [Urban Entrepreneurs](http://www.urbanentrepreneurs.io/energyblockchain).
+Ce dépôt rassemble la documentation de la collaboration - en cours - entre DAISEE et les [Services Industriels de Genève](http://www.sig-ge.ch/particuliers/home) dans le cadre du programme [Urban Entrepreneurs](http://www.urbanentrepreneurs.io/energyblockchain).
 
-Le [Wiki](https://github.com/DAISEE/LIFT-Workshop/wiki) décrit les  étapes de mise en place du 1er prototype de DAISEE (conçu dans le cadre du [Hackaday Prize 2016](https://hackaday.io/project/10879-the-internets-of-energy-call-me-daisee)).
-
-Ce [Storify](https://storify.com/nicolasloubet/urbanentrepreneurs-daisee) permet de refaire le film de la journée. Ce [Hackpad](https://frama.link/DAISEE-Liftlab) permet de suivre les itérations (conduisant au [LIFTlab](http://liftlab.ch))
+Cette collaboration compte en l'état trois étapes : 
+- Etape 1 (bootcamp) : Novembre 2016 : [Récit](https://storify.com/nicolasloubet/urbanentrepreneurs-daisee) + [Documentation](https://hackpad.com/DAISEE-Vers-un-labo-de-la-transition-nergtique-Genve-SIG-x-DAISEE-k94mRWSREKV#:h=Étape-1-:-Bootcamp)
+- Etape 2 (atelier) : Février 2017 : [Récit](https://storify.com/nicolasloubet/liftlab-sig-data) + [Documentation](https://hackpad.com/DAISEE-Vers-un-labo-de-la-transition-nergtique-Genve-SIG-x-DAISEE-k94mRWSREKV#:h=Étape-2-:-Workshop)
+- Etape 3 (sprint) : Mars 2017 : [Récit] (https://storify.com/nicolasloubet/liftlab17-sig-daisee) + [Documentation](https://hackpad.com/DAISEE-Vers-un-labo-de-la-transition-nergtique-Genve-SIG-x-DAISEE-k94mRWSREKV#:h=Étape-3-:-Marathon)
