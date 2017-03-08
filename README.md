@@ -1,4 +1,4 @@
-# [#UrbanEntrepreneurs] Bootcamp DAISEE @ Genève 
+# Labo commun DAISEE x SIG @ Genève 
 
 ![UrbanEntreprneurs](https://github.com/DAISEE/LIFT-Workshop/blob/master/images/IMG_4695.JPG)
 
