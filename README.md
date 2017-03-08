@@ -1,5 +1,3 @@
-# Labo commun DAISEE x SIG @ Genève 
-
 ![UrbanEntreprneurs](https://github.com/DAISEE/LIFT-Workshop/blob/master/images/IMG_4695.JPG)
 
 Ce dépôt rassemble la documentation de la collaboration - en cours - entre DAISEE et les [Services Industriels de Genève](http://www.sig-ge.ch/particuliers/home) dans le cadre du programme [Urban Entrepreneurs](http://www.urbanentrepreneurs.io/energyblockchain). Cette collaboration compte en l'état trois étapes : 
